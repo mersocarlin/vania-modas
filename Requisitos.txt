@@ -1,0 +1,38 @@
+
+Requisitos Funcionais
+
+01 - Cadastrar cliente
+02 - Editar cliente
+03 - Excluir cliente
+04 - Consultar cliente
+05 - Cadastrar funcion�rio
+06 - Editar funcion�rio
+07 - Excluir funcion�rio
+08 - Consultar funcion�rio
+09 - Cadastrar produto
+10 - Editar produto
+11 - Excluir produto
+12 - Consultar produto
+13 - Logar no sistema
+14 - Relat�rio do estoque
+15 - Relat�rio de clientes
+16 - Venda
+17 - Recebimento de d�vidas
+18 - Consultar caixa
+
+
+
+Requisitos Não-Funcionais
+
+01 - Teclas de atalho
+02 - Interfaceamento
+03 - Segurança
+04 - Desempenho
+05 - Performance
+06 - Custo
+07 - Usabilidade
+08 - Atendimento satisfatório
+09 - Integridade
+
+
+===========================================

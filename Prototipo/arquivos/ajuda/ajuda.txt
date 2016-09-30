@@ -1,0 +1,39 @@
+========= ATALHOS ==========
+F2 - Cadastro de Cliente
+F3 - Cadastro de Produto
+F5 - Cadastro de Funcionario
+F6 - Consulta de Cliente
+F7 - Consulta de Produto
+F8 - Consulta de Funcionario
+F9 - Consulta do Relatorio de Caixa
+F10 - Visualizacao de Relatorios 
+F11 - Venda a vista
+F12 - Venda a prazo
+
+========= ACOES ===========
+Realizar recebimento de dividas do cliente:
+1) Consultar Cliente (F6)
+2) Selecionar a aba "compras" do cadastro do cliente
+3) Selecionar a compra na lista de compras efetuadas (clique duplo do mouse) 
+4) Selecionar a parcela que sera paga (clique duplo do mouse) 
+5) Entrar com o valor 
+6) Clicar no botao "Receber"
+
+Inserir despesa no caixa:
+1) Selecionar o menu "Relatorios" -> "item Caixa do dia" na tela principal
+2) Selecionar o botao "inclur despesa"
+3) Digitar o valor e o motivo
+4) Clicar no botao "incluir"
+
+Realizar vendas
+1) Selecionar F11 ou F12 de acordo com o tipo da venda (a vista ou a prazo)
+2) Digitar o codigo ou nome do funcionario
+3) Digitar o codigo ou nome do cliente
+4) Digitar o codigo ou nome do produto que esta sendo vendido
+5) Digitar a quantidade, e apertar [Enter]
+6) Se a quantidades estiver disponivel em estoque, o produto sera inserido na tabela de compras
+7) Voltar ao passo 4 caso haja mais produtos a serem vendidos
+8) Se a venda for a vista, ir para o passo 11, se a venda for a prazo, ir ao passo 9
+9) Escolher a quantidade de parcelas
+10) Digitar o valor de entrada, caso haja
+11) Clicar no botao "Finalizar"

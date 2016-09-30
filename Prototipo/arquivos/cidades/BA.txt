@@ -1,0 +1,415 @@
+Abaira
+Abare
+Acajutiba
+Adustina
+Agua Fria
+Aiquara
+Alagoinhas
+Alcobaca
+Almadina
+Amargosa
+Amelia Rodrigues
+America Dourada
+Anage
+Andarai
+Andorinha
+Angical
+Anguera
+Antas
+Antonio Cardoso
+Antonio Goncalves
+Apora
+Apuarema
+Aracas
+Aracatu
+Araci
+Aramari
+Arataca
+Aratuipe
+Aurelino Leal
+Baianopolis
+Baixa Grande
+Banzae
+Barra da Estiva
+Barra do Choca
+Barra do Mendes
+Barra do Rocha
+Barra
+Barreiras
+Barro Alto
+Barro Preto
+Belmonte
+Belo Campo
+Biritinga
+Boa Nova
+Boa Vista do Tupim
+Bom Jesus da Lapa
+Bom Jesus da Serra
+Boninal
+Bonito
+Boquira
+Botupora
+Brejoes
+Brejolandia
+Brotas de Macaubas
+Brumado
+Buerarema
+Buritirama
+Caatiba
+Cabaceiras do Paraguacu
+Cachoeira
+Cacule
+Caem
+Caetanos
+Caetite
+Cafarnaum
+Cairu
+Caldeirao Grande
+Camacan
+Camacari
+Camamu
+Campo Alegre de Lourdes
+Campo Formoso
+Canapolis
+Canarana
+Canavieiras
+Candeal
+Candeias
+Candiba
+Candido Sales
+Cansancao
+Canudos
+Capela do Alto Alegre
+Capim Grosso
+Caraibas
+Caravelas
+Cardeal da Silva
+Carinhanha
+Casa Nova
+Castro Alves
+Catolandia
+Catu
+Caturama
+Central
+Chorrocho
+Cicero Dantas
+Cipo
+Coaraci
+Cocos
+Conceicao da Feira
+Conceicao do Almeida
+Conceicao do Coite
+Conceicao do Jacuipe
+Conde
+Condeuba
+Contendas do Sincora
+Coracao de Maria
+Cordeiros
+Coribe
+Coronel Joao Sa
+Correntina
+Cotegipe
+Cravolandia
+Crisopolis
+Cristopolis
+Cruz das Almas
+Curaca
+Dario Meira
+Dias d'Avila
+Dom Basilio
+Dom Macedo Costa
+Elisio Medrado
+Encruzilhada
+Entre Rios
+Erico Cardoso
+Esplanada
+Euclides da Cunha
+Eunapolis
+Fatima
+Feira da Mata
+Feira de Santana
+Filadelfia
+Firmino Alves
+Floresta Azul
+Formosa do Rio Preto
+Gandu
+Gaviao
+Gentio do Ouro
+Gloria
+Gongogi
+Governador Mangabeira
+Guajeru
+Guanambi
+Guaratinga
+Heliopolis
+Iacu
+Ibiassuce
+Ibicarai
+Ibicoara
+Ibicui
+Ibipeba
+Ibipitanga
+Ibiquera
+Ibirapitanga
+Ibirapua
+Ibirataia
+Ibitiara
+Ibitita
+Ibotirama
+Ichu
+Igapora
+Igrapiuna
+Iguai
+Ilheus
+Inhambupe
+Ipecaeta
+Ipiau
+Ipira
+Ipupiara
+Irajuba
+Iramaia
+Iraquara
+Irara
+Irece
+Itabela
+Itaberaba
+Itabuna
+Itacare
+Itaete
+Itagi
+Itagiba
+Itagimirim
+Itaguacu da Bahia
+Itaju do Colonia
+Itajuipe
+Itamaraju
+Itamari
+Itambe
+Itanagra
+Itanhem
+Itaparica
+Itape
+Itapebi
+Itapetinga
+Itapicuru
+Itapitanga
+Itaquara
+Itarantim
+Itatim
+Itirucu
+Itiuba
+Itororo
+Ituacu
+Itubera
+Iuiu
+Jaborandi
+Jacaraci
+Jacobina
+Jaguaquara
+Jaguarari
+Jaguaripe
+Jandaira
+Jequie
+Jeremoabo
+Jiquirica
+Jitauna
+Joao Dourado
+Juazeiro
+Jucurucu
+Jussara
+Jussari
+Jussiape
+Lafaiete Coutinho
+Lagoa Real
+Laje
+Lajedao
+Lajedinho
+Lajedo do Tabocal
+Lamarao
+Lapao
+Lauro de Freitas
+Lencois
+Licinio de Almeida
+Livramento do Brumado
+Macajuba
+Macarani
+Macaubas
+Macurure
+Madre de Deus
+Maetinga
+Maiquinique
+Mairi
+Malhada de Pedras
+Malhada
+Manoel Vitorino
+Mansidao
+Maracas
+Maragogipe
+Marau
+Marcionilio Souza
+Mascote
+Mata de Sao Joao
+Matina
+Medeiros Neto
+Miguel Calmon
+Milagres
+Mirangaba
+Mirante
+Monte Santo
+Morpara
+Morro do Chapeu
+Mortugaba
+Mucuge
+Mucuri
+Mulungu do Morro
+Mundo Novo
+Muniz Ferreira
+Muquem de Sao Francisco
+Muritiba
+Mutuipe
+Nazare
+Nilo Pecanha
+Nordestina
+Nova Canaa
+Nova Fatima
+Nova Ibia
+Nova Itarana
+Nova Redencao
+Nova Soure
+Nova Vicosa
+Novo Horizonte
+Novo Triunfo
+Olindina
+Oliveira dos Brejinhos
+Ouricangas
+Ourolandia
+Palmas de Monte Alto
+Palmeiras
+Paramirim
+Paratinga
+Paripiranga
+Pau Brasil
+Paulo Afonso
+Pe de Serra
+Pedrao
+Pedro Alexandre
+Piata
+Pilao Arcado
+Pindai
+Pindobacu
+Pintadas
+Pirai do Norte
+Piripa
+Piritiba
+Planaltino
+Planalto
+Pocoes
+Pojuca
+Ponto Novo
+Porto Seguro
+Potiragua
+Prado
+Presidente Dutra
+Presidente Janio Quadros
+Presidente Tancredo Neves
+Queimadas
+Quijingue
+Quixabeira
+Rafael Jambeiro
+Remanso
+Retirolandia
+Riachao das Neves
+Riachao do Jacuipe
+Riacho de Santana
+Ribeira do Amparo
+Ribeira do Pombal
+Ribeirao do Largo
+Rio Real
+Rio de Contas
+Rio do Antonio
+Rio do Pires
+Rodelas
+Ruy Barbosa
+Salinas da Margarida
+Salvador
+Santa Barbara
+Santa Brigida
+Santa Cruz Cabralia
+Santa Cruz da Vitoria
+Santa Ines
+Santa Luzia
+Santa Maria da Vitoria
+Santa Rita de Cassia
+Santa Teresinha
+Santaluz
+Santana
+Santanopolis
+Santo Amaro
+Santo Antonio de Jesus
+Santo Estevao
+Sao Desiderio
+Sao Domingos
+Sao Felipe
+Sao Felix do Coribe
+Sao Felix
+Sao Francisco do Conde
+Sao Gabriel
+Sao Goncalo dos Campos
+Sao Jose da Vitoria
+Sao Jose do Jacuipe
+Sao Miguel das Matas
+Sao Sebastiao do Passe
+Sapeacu
+Satiro Dias
+Saubara
+Saude
+Seabra
+Sebastiao Laranjeiras
+Senhor do Bonfim
+Sento Se
+Serra Dourada
+Serra Preta
+Serra do Ramalho
+Serrinha
+Serrolandia
+Simoes Filho
+Sitio do Mato
+Sitio do Quinto
+Sobradinho
+Souto Soares
+Tabocas do Brejo Velho
+Tanhacu
+Tanque Novo
+Tanquinho
+Taperoa
+Tapiramuta
+Teixeira de Freitas
+Teodoro Sampaio
+Teofilandia
+Teolandia
+Terra Nova
+Tremedal
+Tucano
+Uaua
+Ubaira
+Ubaitaba
+Ubata
+Uibai
+Umburanas
+Una
+Urandi
+Urucuca
+Utinga
+Valenca
+Valente
+Varzea Nova
+Varzea da Roca
+Varzea do Poco
+Varzedo
+Vera Cruz
+Vereda
+Vitoria da Conquista
+Wagner
+Wanderley
+Wenceslau Guimaraes
+Xique-Xique

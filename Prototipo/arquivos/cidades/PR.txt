@@ -1,0 +1,399 @@
+Abatia
+Adrianopolis
+Agudos do Sul
+Almirante Tamandare
+Altamira do Parana
+Altania
+Alto Parana
+Alto Piquiri
+Alvorada do Sul
+Amapora
+Ampere
+Anahy
+Andira
+Angulo
+Antonina
+Antonio Olinto
+Apucarana
+Arapongas
+Arapoti
+Arapua
+Araruna
+Araucaria
+Ariranha do Ivai
+Assai
+Assis Chateaubriand
+Astorga
+Atalaia
+Balsa Nova
+Bandeirantes
+Barbosa Ferraz
+Barra do Jacare
+Barracao
+Bela Vista da Caroba
+Bela Vista do Paraiso
+Bituruna
+Boa Esperanca do Iguacu
+Boa Esperanca
+Boa Ventura de Sao Roque
+Boa Vista da Aparecida
+Bocaiuva do Sul
+Bom Jesus do Sul
+Bom Sucesso do Sul
+Bom Sucesso
+Borrazopolis
+Braganey
+Brasilandia do Sul
+Cafeara
+Cafelandia
+Cafezal do Sul
+California
+Cambara
+Cambe
+Cambira
+Campina Grande do Sul
+Campina da Lagoa
+Campina do Simao
+Campo Bonito
+Campo Largo
+Campo Magro
+Campo Mourao
+Campo do Tenente
+Candido de Abreu
+Candoi
+Cantagalo
+Capanema
+Capitao Leonidas Marques
+Carambei
+Carlopolis
+Cascavel
+Castro
+Catanduvas
+Centenario do Sul
+Cerro Azul
+Ceu Azul
+Chopinzinho
+Cianorte
+Cidade Gaucha
+Clevelandia
+Colombo
+Colorado
+Congonhinhas
+Conselheiro Mairinck
+Contenda
+Corbelia
+Cornelio Procopio
+Coronel Domingos Soares
+Coronel Vivida
+Corumbatai do Sul
+Cruz Machado
+Cruzeiro do Iguacu
+Cruzeiro do Oeste
+Cruzeiro do Sul
+Cruzmaltina
+Curitiba
+Curiuva
+Diamante d'Oeste
+Diamante do Norte
+Diamante do Sul
+Dois Vizinhos
+Douradina
+Doutor Camargo
+Doutor Ulysses
+Eneas Marques
+Engenheiro Beltrao
+Entre Rios do Oeste
+Esperanca Nova
+Espigao Alto do Iguacu
+Farol
+Faxinal
+Fazenda Rio Grande
+Fenix
+Fernandes Pinheiro
+Figueira
+Flor da Serra do Sul
+Florai
+Floresta
+Florestopolis
+Florida
+Formosa do Oeste
+Foz do Iguacu
+Foz do Jordao
+Francisco Alves
+Francisco Beltrao
+General Carneiro
+Godoy Moreira
+Goioere
+Goioxim
+Grandes Rios
+Guaira
+Guairaca
+Guamiranga
+Guapirama
+Guaporema
+Guaraci
+Guaraniacu
+Guarapuava
+Guaraquecaba
+Guaratuba
+Honorio Serpa
+Ibaiti
+Ibema
+Ibipora
+Icaraima
+Iguaracu
+Iguatu
+Imbau
+Imbituva
+Inacio Martins
+Inaja
+Indianopolis
+Ipiranga
+Ipora
+Iracema do Oeste
+Irati
+Iretama
+Itaguaje
+Itaipulandia
+Itambaraca
+Itambe
+Itapejara d'Oeste
+Itaperucu
+Itauna do Sul
+Ivai
+Ivaipora
+Ivate
+Ivatuba
+Jaboti
+Jacarezinho
+Jaguapita
+Jaguariaiva
+Jandaia do Sul
+Janiopolis
+Japira
+Japura
+Jardim Alegre
+Jardim Olinda
+Jataizinho
+Jesuitas
+Joaquim Tavora
+Jundiai do Sul
+Juranda
+Jussara
+Kalore
+Lapa
+Laranjal
+Laranjeiras do Sul
+Leopolis
+Lidianopolis
+Lindoeste
+Loanda
+Lobato
+Londrina
+Luiziana
+Lunardelli
+Lupionopolis
+Mallet
+Mambore
+Mandaguacu
+Mandaguari
+Mandirituba
+Manfrinopolis
+Mangueirinha
+Manoel Ribas
+Marechal Candido Rondon
+Maria Helena
+Marialva
+Marilandia do Sul
+Marilena
+Mariluz
+Maringa
+Mariopolis
+Maripa
+Marmeleiro
+Marquinho
+Marumbi
+Matelandia
+Matinhos
+Mato Rico
+Maua da Serra
+Medianeira
+Mercedes
+Mirador
+Miraselva
+Missal
+Moreira Sales
+Morretes
+Munhoz de Melo
+Nossa Senhora das Gracas
+Nova Alianca do Ivai
+Nova America da Colina
+Nova Aurora
+Nova Cantu
+Nova Esperanca do Sudoeste
+Nova Esperanca
+Nova Fatima
+Nova Laranjeiras
+Nova Londrina
+Nova Olimpia
+Nova Prata do Iguacu
+Nova Santa Barbara
+Nova Santa Rosa
+Nova Tebas
+Novo Itacolomi
+Ortigueira
+Ourizona
+Ouro Verde do Oeste
+Paicandu
+Palmas
+Palmeira
+Palmital
+Palotina
+Paraiso do Norte
+Paranacity
+Paranagua
+Paranapoema
+Paranavai
+Pato Bragado
+Pato Branco
+Paula Freitas
+Paulo Frontin
+Peabiru
+Perobal
+Perola d'Oeste
+Perola
+Pien
+Pinhais
+Pinhal de Sao Bento
+Pinhalao
+Pinhao
+Pirai do Sul
+Piraquara
+Pitanga
+Pitangueiras
+Planaltina do Parana
+Planalto
+Ponta Grossa
+Pontal do Parana
+Porecatu
+Porto Amazonas
+Porto Barreiro
+Porto Rico
+Porto Vitoria
+Prado Ferreira
+Pranchita
+Presidente Castelo Branco
+Primeiro de Maio
+Prudentopolis
+Quarto Centenario
+Quatigua
+Quatro Barras
+Quatro Pontes
+Quedas do Iguacu
+Querencia do Norte
+Quinta do Sol
+Quitandinha
+Ramilandia
+Rancho Alegre d'Oeste
+Rancho Alegre
+Realeza
+Reboucas
+Renascenca
+Reserva do Iguacu
+Reserva
+Ribeirao Claro
+Ribeirao do Pinhal
+Rio Azul
+Rio Bom
+Rio Bonito do Iguacu
+Rio Branco do Ivai
+Rio Branco do Sul
+Rio Negro
+Rolandia
+Roncador
+Rondon
+Rosario do Ivai
+Sabaudia
+Salgado Filho
+Salto do Itarare
+Salto do Lontra
+Santa Amelia
+Santa Cecilia do Pavao
+Santa Cruz de Monte Castelo
+Santa Fe
+Santa Helena
+Santa Ines
+Santa Isabel do Ivai
+Santa Izabel do Oeste
+Santa Lucia
+Santa Maria do Oeste
+Santa Mariana
+Santa Monica
+Santa Tereza do Oeste
+Santa Terezinha de Itaipu
+Santana do Itarare
+Santo Antonio da Platina
+Santo Antonio do Caiua
+Santo Antonio do Paraiso
+Santo Antonio do Sudoeste
+Santo Inacio
+Sao Carlos do Ivai
+Sao Jeronimo da Serra
+Sao Joao do Caiua
+Sao Joao do Ivai
+Sao Joao do Triunfo
+Sao Joao
+Sao Jorge d'Oeste
+Sao Jorge do Ivai
+Sao Jorge do Patrocinio
+Sao Jose da Boa Vista
+Sao Jose das Palmeiras
+Sao Jose dos Pinhais
+Sao Manoel do Parana
+Sao Mateus do Sul
+Sao Miguel do Iguacu
+Sao Pedro do Iguacu
+Sao Pedro do Ivai
+Sao Pedro do Parana
+Sao Sebastiao da Amoreira
+Sao Tome
+Sapopema
+Sarandi
+Saudade do Iguacu
+Senges
+Serranopolis do Iguacu
+Sertaneja
+Sertanopolis
+Siqueira Campos
+Sulina
+Tamarana
+Tamboara
+Tapejara
+Tapira
+Teixeira Soares
+Telemaco Borba
+Terra Boa
+Terra Rica
+Terra Roxa
+Tibagi
+Tijucas do Sul
+Toledo
+Tomazina
+Tres Barras do Parana
+Tunas do Parana
+Tuneiras do Oeste
+Tupassi
+Turvo
+Ubirata
+Umuarama
+Uniao da Vitoria
+Uniflor
+Urai
+Ventania
+Vera Cruz do Oeste
+Vere
+Vila Alta
+Virmond
+Vitorino
+Wenceslau Braz
+Xambre
